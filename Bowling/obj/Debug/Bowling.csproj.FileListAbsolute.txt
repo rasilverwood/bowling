@@ -1,0 +1,11 @@
+c:\users\ras\documents\visual studio 2015\Projects\Bowling\Bowling\bin\Debug\Bowling.exe.config
+c:\users\ras\documents\visual studio 2015\Projects\Bowling\Bowling\bin\Debug\Bowling.exe
+c:\users\ras\documents\visual studio 2015\Projects\Bowling\Bowling\bin\Debug\Bowling.pdb
+c:\users\ras\documents\visual studio 2015\Projects\Bowling\Bowling\obj\Debug\Bowling.csprojResolveAssemblyReference.cache
+c:\users\ras\documents\visual studio 2015\Projects\Bowling\Bowling\obj\Debug\Bowling.BowlingBoard.resources
+c:\users\ras\documents\visual studio 2015\Projects\Bowling\Bowling\obj\Debug\Bowling.Properties.Resources.resources
+c:\users\ras\documents\visual studio 2015\Projects\Bowling\Bowling\obj\Debug\Bowling.csproj.GenerateResource.Cache
+c:\users\ras\documents\visual studio 2015\Projects\Bowling\Bowling\obj\Debug\Bowling.exe
+c:\users\ras\documents\visual studio 2015\Projects\Bowling\Bowling\obj\Debug\Bowling.pdb
+C:\Users\ras\documents\visual studio 2015\Projects\Bowling\Bowling\bin\Debug\DrawablePicturebox.dll
+C:\Users\ras\documents\visual studio 2015\Projects\Bowling\Bowling\obj\Debug\Bowling.PlayerControl.resources
